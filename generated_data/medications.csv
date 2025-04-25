@@ -1,0 +1,122 @@
+medication_id,name,category,unit_cost,prescription_level
+1,5‑Fluorouracil,Other,10.0,Doctor
+2,Acetaminophen,Analgesic,0.1,RN
+3,Acyclovir,Antiviral,0.25,Doctor
+4,Albuterol,Bronchodilator,0.2,RN
+5,Alendronate,Bisphosphonate,1.0,Doctor
+6,Amoxicillin,Antibiotic,0.5,Doctor
+7,Amoxicillin‑clavulanate,Antibiotic,2.0,Doctor
+8,Artificial Tears,Ophthalmic,5.0,RN
+9,Aspirin,Antiplatelet,0.05,Doctor
+10,Atorvastatin,Cholesterol-lowering,0.3,Doctor
+11,Atropine Drops,Other,10.0,Doctor
+12,Azithromycin,Antibiotic,2.0,Doctor
+13,Bacillus Calmette‑Guérin,Immunotherapy,500.0,Doctor
+14,Baclofen,Muscle Relaxant,1.0,Doctor
+15,Bleomycin,Antineoplastic,75.0,Doctor
+16,Broad‑spectrum Antibiotic,Other,10.0,Doctor
+17,Calcitriol,Other,10.0,Doctor
+18,Carboplatin,Antineoplastic,100.0,Doctor
+19,Carvedilol,Beta Blocker,0.5,Doctor
+20,Ceftriaxone,Antibiotic,2.0,Doctor
+21,Cetirizine,Antihistamine,0.15,Pharmacist
+22,Cisplatin,Antineoplastic,200.0,Doctor
+23,Clindamycin,Antibiotic,1.5,Doctor
+24,Clomiphene Citrate,Other,10.0,Doctor
+25,Clopidogrel,Antiplatelet,0.5,Doctor
+26,Compression Stockings,Other,10.0,Doctor
+27,Cool IV Fluids,Other,10.0,Doctor
+28,Deferoxamine,Chelation Agent,10.0,Doctor
+29,Dextromethorphan,Antitussive,0.2,Pharmacist
+30,Diphenhydramine,Antihistamine,0.1,RN
+31,Dobutamine,Other,10.0,Doctor
+32,Donepezil,Other,10.0,Doctor
+33,Doxorubicin,Antineoplastic,150.0,Doctor
+34,Doxycycline,Other,10.0,Doctor
+35,Emollient Cream,Other,10.0,Doctor
+36,Empagliflozin,SGLT2 Inhibitor,20.79,Doctor
+37,Enoxaparin,Anticoagulant,3.0,Doctor
+38,Epinephrine,Vasopressor,5.0,RN
+39,Etoposide,Antineoplastic,100.0,Doctor
+40,Factor VIII Concentrate,Coagulant,50.0,Doctor
+41,Fludrocortisone,Other,10.0,Doctor
+42,Fluticasone,Steroid,1.0,Doctor
+43,Furosemide,Diuretic,0.2,Doctor
+44,Gabapentin,Other,10.0,Doctor
+45,Gemcitabine,Antineoplastic,200.0,Doctor
+46,Guaifenesin,Expectorant,0.2,Pharmacist
+47,Haloperidol,Antipsychotic,1.0,Doctor
+48,Heparin,Anticoagulant,1.0,Doctor
+49,High‑dose Methotrexate,Other,10.0,Doctor
+50,Hydrocortisone,Steroid,0.5,Pharmacist
+51,Hydrocortisone Cream,Other,10.0,Doctor
+52,Hydroxychloroquine,Antimalarial,1.0,Doctor
+53,Hydroxyurea,Cytoreductive,2.0,Doctor
+54,Hyoscyamine,Other,10.0,Doctor
+55,IV Crystalloids,Other,10.0,Doctor
+56,Ibuprofen,NSAID,0.03,RN
+57,Imatinib,Antineoplastic,50.0,Doctor
+58,Immediate Appendectomy Meds Only,Other,10.0,Doctor
+59,Indomethacin,Other,10.0,Doctor
+60,Interferon beta‑1a,Immunomodulator,100.0,Doctor
+61,Iron Sulfate,Other,10.0,Doctor
+62,Iron Supplement,Other,10.0,Doctor
+63,Ketoconazole,Antifungal,2.0,Doctor
+64,Latanoprost,Other,10.0,Doctor
+65,Leuprolide,GnRH Agonist,20.0,Doctor
+66,Levetiracetam,Anticonvulsant,0.15,Doctor
+67,Levodopa/Carbidopa,Antiparkinsonian,5.0,Doctor
+68,Levothyroxine,Other,10.0,Doctor
+69,Lisinopril,Antihypertensive,0.2,Doctor
+70,Loperamide,Antidiarrheal,0.25,Pharmacist
+71,Loratadine,Other,10.0,Doctor
+72,Meclizine,Antiemetic,0.3,RN
+73,Memantine,Other,10.0,Doctor
+74,Mesalamine,Anti-inflammatory,2.0,Doctor
+75,Metformin,Antidiabetic,0.14,Doctor
+76,Methimazole,Antithyroid,1.0,Doctor
+77,Methotrexate,Antirheumatic,1.0,Doctor
+78,Metoprolol,Other,10.0,Doctor
+79,Metronidazole,Other,10.0,Doctor
+80,Minoxidil Topical,Vasodilator,5.0,Pharmacist
+81,NSAIDs,Other,10.0,Doctor
+82,Naproxen,NSAID,0.14,RN
+83,Nitrofurantoin,Antibiotic,0.5,Doctor
+84,None (Surgery Only),Other,10.0,Doctor
+85,Norepinephrine,Vasopressor,5.0,Doctor
+86,Omeprazole,PPI,0.5,RN
+87,Ondansetron,Antiemetic,1.0,Doctor
+88,Oral Rehydration Salts,Rehydration,0.1,RN
+89,Paclitaxel,Other,10.0,Doctor
+90,Pantoprazole,PPI,1.0,Pharmacist
+91,Pembrolizumab,Immunotherapy,100.0,Doctor
+92,Pemetrexed,Other,10.0,Doctor
+93,Penicillin VK,Antibiotic,0.3,Doctor
+94,Pentoxifylline,Hemorrheologic,1.0,Doctor
+95,Pilocarpine,Cholinergic,1.0,Doctor
+96,Prednisone,Steroid,0.5,Doctor
+97,Pregabalin,Other,10.0,Doctor
+98,Propranolol,Beta Blocker,0.2,Doctor
+99,Ranibizumab,Other,10.0,Doctor
+100,Risperidone,Other,10.0,Doctor
+101,Ropinirole,Antiparkinsonian,2.0,Doctor
+102,R‑CHOP regimen (rituximab),Other,10.0,Doctor
+103,Sertraline,Antidepressant,0.3,Doctor
+104,Silver Sulfadiazine Cream,Other,10.0,Doctor
+105,Sofosbuvir,Antiviral,40.0,Doctor
+106,Spironolactone,Diuretic,0.5,Doctor
+107,Sumatriptan,Antimigraine,1.0,Doctor
+108,Sunitinib,Other,10.0,Doctor
+109,Tamoxifen,Antineoplastic,0.5,Doctor
+110,Tamsulosin,Other,10.0,Doctor
+111,Temozolomide,Antineoplastic,50.0,Doctor
+112,Tenofovir,Antiviral,0.6,Doctor
+113,Tiotropium,Other,10.0,Doctor
+114,Tolvaptan,Vasopressin antagonist,5.0,Doctor
+115,Topical Acyclovir,Other,10.0,Doctor
+116,Tranexamic Acid,Antifibrinolytic,1.0,RN
+117,Velpatasvir,Antiviral,50.0,Doctor
+118,Vitamin D3,Supplement,0.1,Pharmacist
+119,Warfarin,Anticoagulant,0.2,Doctor
+120,Warm IV Fluids,Other,10.0,Doctor
+121,Zolpidem,Sedative,0.5,Doctor

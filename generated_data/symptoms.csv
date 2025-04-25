@@ -1,0 +1,506 @@
+symptom_id,name,severity,procedure_id,medication_id,quantity
+1,Encephalitis,1,67,3.0,21
+2,Encephalitis,2,67,3.0,21
+3,Encephalitis,3,67,3.0,21
+4,Encephalitis,4,67,3.0,21
+5,Encephalitis,5,67,3.0,21
+6,Acid reflux,1,117,86.0,1
+7,Acid reflux,2,117,86.0,1
+8,Acid reflux,3,117,86.0,1
+9,Acid reflux,4,117,86.0,1
+10,Acid reflux,5,117,86.0,1
+11,Polyphagia,1,43,75.0,2
+12,Polyphagia,2,43,75.0,2
+13,Polyphagia,3,43,75.0,2
+14,Polyphagia,4,43,75.0,2
+15,Polyphagia,5,43,75.0,2
+16,Psychosis,1,87,100.0,2
+17,Psychosis,2,87,100.0,2
+18,Psychosis,3,87,100.0,2
+19,Psychosis,4,87,100.0,2
+20,Psychosis,5,87,100.0,2
+21,Back pain,1,68,56.0,3
+22,Back pain,2,68,56.0,3
+23,Back pain,3,68,56.0,3
+24,Back pain,4,68,56.0,3
+25,Back pain,5,68,56.0,3
+26,Stomach pain,1,2,90.0,1
+27,Stomach pain,2,2,90.0,1
+28,Stomach pain,3,2,90.0,1
+29,Stomach pain,4,2,90.0,1
+30,Stomach pain,5,2,90.0,1
+31,Bleeding,1,17,116.0,3
+32,Bleeding,2,17,116.0,3
+33,Bleeding,3,17,116.0,3
+34,Bleeding,4,17,116.0,3
+35,Bleeding,5,17,116.0,3
+36,Blurred vision,1,100,8.0,4
+37,Blurred vision,2,100,8.0,4
+38,Blurred vision,3,100,8.0,4
+39,Blurred vision,4,100,8.0,4
+40,Blurred vision,5,100,8.0,4
+41,Sweating,1,108,98.0,3
+42,Sweating,2,108,98.0,3
+43,Sweating,3,108,98.0,3
+44,Sweating,4,108,98.0,3
+45,Sweating,5,108,98.0,3
+46,Bruising,1,17,,0
+47,Bruising,2,17,,0
+48,Bruising,3,17,,0
+49,Bruising,4,17,,0
+50,Bruising,5,17,,0
+51,Chest pain,1,36,9.0,1
+52,Chest pain,2,36,9.0,1
+53,Chest pain,3,36,9.0,1
+54,Chest pain,4,36,9.0,1
+55,Chest pain,5,36,9.0,1
+56,Chills,1,10,2.0,4
+57,Chills,2,10,2.0,4
+58,Chills,3,10,2.0,4
+59,Chills,4,10,2.0,4
+60,Chills,5,10,2.0,4
+61,Choking sensation,1,58,,0
+62,Choking sensation,2,58,,0
+63,Choking sensation,3,58,,0
+64,Choking sensation,4,58,,0
+65,Choking sensation,5,58,,0
+66,Delirium,1,24,47.0,4
+67,Delirium,2,24,47.0,4
+68,Delirium,3,24,47.0,4
+69,Delirium,4,24,47.0,4
+70,Delirium,5,24,47.0,4
+71,Cough,1,23,29.0,4
+72,Cough,2,23,29.0,4
+73,Cough,3,23,29.0,4
+74,Cough,4,23,29.0,4
+75,Cough,5,23,29.0,4
+76,Diarrhea,1,102,70.0,4
+77,Diarrhea,2,102,70.0,4
+78,Diarrhea,3,102,70.0,4
+79,Diarrhea,4,102,70.0,4
+80,Diarrhea,5,102,70.0,4
+81,Dizziness,1,33,72.0,3
+82,Dizziness,2,33,72.0,3
+83,Dizziness,3,33,72.0,3
+84,Dizziness,4,33,72.0,3
+85,Dizziness,5,33,72.0,3
+86,Dry mouth,1,92,95.0,3
+87,Dry mouth,2,92,95.0,3
+88,Dry mouth,3,92,95.0,3
+89,Dry mouth,4,92,95.0,3
+90,Dry mouth,5,92,95.0,3
+91,Blood in urine,1,118,,0
+92,Blood in urine,2,118,,0
+93,Blood in urine,3,118,,0
+94,Blood in urine,4,118,,0
+95,Blood in urine,5,118,,0
+96,Earache,1,79,6.0,3
+97,Earache,2,79,6.0,3
+98,Earache,3,79,6.0,3
+99,Earache,4,79,6.0,3
+100,Earache,5,79,6.0,3
+101,Fatigue,1,104,,0
+102,Fatigue,2,104,,0
+103,Fatigue,3,104,,0
+104,Fatigue,4,104,,0
+105,Fatigue,5,104,,0
+106,Fever,1,83,2.0,4
+107,Fever,2,83,2.0,4
+108,Fever,3,83,2.0,4
+109,Fever,4,83,2.0,4
+110,Fever,5,83,2.0,4
+111,Flushing,1,84,,0
+112,Flushing,2,84,,0
+113,Flushing,3,84,,0
+114,Flushing,4,84,,0
+115,Flushing,5,84,,0
+116,Headache,1,19,56.0,3
+117,Headache,2,19,56.0,3
+118,Headache,3,19,56.0,3
+119,Headache,4,19,56.0,3
+120,Headache,5,19,56.0,3
+121,Heart palpitations,1,35,98.0,2
+122,Heart palpitations,2,35,98.0,2
+123,Heart palpitations,3,35,98.0,2
+124,Heart palpitations,4,35,98.0,2
+125,Heart palpitations,5,35,98.0,2
+126,Hearing loss,1,8,,0
+127,Hearing loss,2,8,,0
+128,Hearing loss,3,8,,0
+129,Hearing loss,4,8,,0
+130,Hearing loss,5,8,,0
+131,Hives,1,5,30.0,4
+132,Hives,2,5,30.0,4
+133,Hives,3,5,30.0,4
+134,Hives,4,5,30.0,4
+135,Hives,5,5,30.0,4
+136,Hoarseness,1,58,86.0,1
+137,Hoarseness,2,58,86.0,1
+138,Hoarseness,3,58,86.0,1
+139,Hoarseness,4,58,86.0,1
+140,Hoarseness,5,58,86.0,1
+141,Itching,1,95,21.0,1
+142,Itching,2,95,21.0,1
+143,Itching,3,95,21.0,1
+144,Itching,4,95,21.0,1
+145,Itching,5,95,21.0,1
+146,Joint pain,1,126,82.0,2
+147,Joint pain,2,126,82.0,2
+148,Joint pain,3,126,82.0,2
+149,Joint pain,4,126,82.0,2
+150,Joint pain,5,126,82.0,2
+151,Loss of appetite,1,117,,0
+152,Loss of appetite,2,117,,0
+153,Loss of appetite,3,117,,0
+154,Loss of appetite,4,117,,0
+155,Loss of appetite,5,117,,0
+156,Memory loss,1,67,32.0,1
+157,Memory loss,2,67,32.0,1
+158,Memory loss,3,67,32.0,1
+159,Memory loss,4,67,32.0,1
+160,Memory loss,5,67,32.0,1
+161,Mood swings,1,87,103.0,1
+162,Mood swings,2,87,103.0,1
+163,Mood swings,3,87,103.0,1
+164,Mood swings,4,87,103.0,1
+165,Mood swings,5,87,103.0,1
+166,Muscle weakness,1,37,,0
+167,Muscle weakness,2,37,,0
+168,Muscle weakness,3,37,,0
+169,Muscle weakness,4,37,,0
+170,Muscle weakness,5,37,,0
+171,Nausea,1,2,87.0,2
+172,Nausea,2,2,87.0,2
+173,Nausea,3,2,87.0,2
+174,Nausea,4,2,87.0,2
+175,Nausea,5,2,87.0,2
+176,Gangrene,1,120,,0
+177,Gangrene,2,120,,0
+178,Gangrene,3,120,,0
+179,Gangrene,4,120,,0
+180,Gangrene,5,120,,0
+181,fluid in genitals,1,94,,0
+182,fluid in genitals,2,94,,0
+183,fluid in genitals,3,94,,0
+184,fluid in genitals,4,94,,0
+185,fluid in genitals,5,94,,0
+186,Numbness,1,73,44.0,3
+187,Numbness,2,73,44.0,3
+188,Numbness,3,73,44.0,3
+189,Numbness,4,73,44.0,3
+190,Numbness,5,73,44.0,3
+191,Palpitations,1,35,98.0,2
+192,Palpitations,2,35,98.0,2
+193,Palpitations,3,35,98.0,2
+194,Palpitations,4,35,98.0,2
+195,Palpitations,5,35,98.0,2
+196,Paralysis,1,68,,0
+197,Paralysis,2,68,,0
+198,Paralysis,3,68,,0
+199,Paralysis,4,68,,0
+200,Paralysis,5,68,,0
+201,Rash,1,96,51.0,2
+202,Rash,2,96,51.0,2
+203,Rash,3,96,51.0,2
+204,Rash,4,96,51.0,2
+205,Rash,5,96,51.0,2
+206,Red eyes,1,100,8.0,4
+207,Red eyes,2,100,8.0,4
+208,Red eyes,3,100,8.0,4
+209,Red eyes,4,100,8.0,4
+210,Red eyes,5,100,8.0,4
+211,Runny nose,1,90,71.0,1
+212,Runny nose,2,90,71.0,1
+213,Runny nose,3,90,71.0,1
+214,Runny nose,4,90,71.0,1
+215,Runny nose,5,90,71.0,1
+216,Seizures,1,34,66.0,2
+217,Seizures,2,34,66.0,2
+218,Seizures,3,34,66.0,2
+219,Seizures,4,34,66.0,2
+220,Seizures,5,34,66.0,2
+221,Shortness of breath,1,88,4.0,2
+222,Shortness of breath,2,88,4.0,2
+223,Shortness of breath,3,88,4.0,2
+224,Shortness of breath,4,88,4.0,2
+225,Shortness of breath,5,88,4.0,2
+226,Skin lesions,1,96,,0
+227,Skin lesions,2,96,,0
+228,Skin lesions,3,96,,0
+229,Skin lesions,4,96,,0
+230,Skin lesions,5,96,,0
+231,Slurred speech,1,19,,0
+232,Slurred speech,2,19,,0
+233,Slurred speech,3,19,,0
+234,Slurred speech,4,19,,0
+235,Slurred speech,5,19,,0
+236,Sneezing,1,5,21.0,1
+237,Sneezing,2,5,21.0,1
+238,Sneezing,3,5,21.0,1
+239,Sneezing,4,5,21.0,1
+240,Sneezing,5,5,21.0,1
+241,Sore throat,1,106,93.0,4
+242,Sore throat,2,106,93.0,4
+243,Sore throat,3,106,93.0,4
+244,Sore throat,4,106,93.0,4
+245,Sore throat,5,106,93.0,4
+246,Spasms,1,74,14.0,3
+247,Spasms,2,74,14.0,3
+248,Spasms,3,74,14.0,3
+249,Spasms,4,74,14.0,3
+250,Spasms,5,74,14.0,3
+251,Swelling,1,116,,0
+252,Swelling,2,116,,0
+253,Swelling,3,116,,0
+254,Swelling,4,116,,0
+255,Swelling,5,116,,0
+256,Tachycardia,1,35,78.0,2
+257,Tachycardia,2,35,78.0,2
+258,Tachycardia,3,35,78.0,2
+259,Tachycardia,4,35,78.0,2
+260,Tachycardia,5,35,78.0,2
+261,Inflammation,1,18,56.0,3
+262,Inflammation,2,18,56.0,3
+263,Inflammation,3,18,56.0,3
+264,Inflammation,4,18,56.0,3
+265,Inflammation,5,18,56.0,3
+266,Tremor,1,74,98.0,3
+267,Tremor,2,74,98.0,3
+268,Tremor,3,74,98.0,3
+269,Tremor,4,74,98.0,3
+270,Tremor,5,74,98.0,3
+271,Trouble swallowing,1,9,,0
+272,Trouble swallowing,2,9,,0
+273,Trouble swallowing,3,9,,0
+274,Trouble swallowing,4,9,,0
+275,Trouble swallowing,5,9,,0
+276,Ulcers,1,39,86.0,1
+277,Ulcers,2,39,86.0,1
+278,Ulcers,3,39,86.0,1
+279,Ulcers,4,39,86.0,1
+280,Ulcers,5,39,86.0,1
+281,Urinary pain,1,118,83.0,2
+282,Urinary pain,2,118,83.0,2
+283,Urinary pain,3,118,83.0,2
+284,Urinary pain,4,118,83.0,2
+285,Urinary pain,5,118,83.0,2
+286,Urticaria,1,5,21.0,1
+287,Urticaria,2,5,21.0,1
+288,Urticaria,3,5,21.0,1
+289,Urticaria,4,5,21.0,1
+290,Urticaria,5,5,21.0,1
+291,Vomiting,1,2,87.0,2
+292,Vomiting,2,2,87.0,2
+293,Vomiting,3,2,87.0,2
+294,Vomiting,4,2,87.0,2
+295,Vomiting,5,2,87.0,2
+296,High blood pressure,1,12,69.0,1
+297,High blood pressure,2,12,69.0,1
+298,High blood pressure,3,12,69.0,1
+299,High blood pressure,4,12,69.0,1
+300,High blood pressure,5,12,69.0,1
+301,Weight loss,1,104,,0
+302,Weight loss,2,104,,0
+303,Weight loss,3,104,,0
+304,Weight loss,4,104,,0
+305,Weight loss,5,104,,0
+306,Wheezing,1,88,4.0,2
+307,Wheezing,2,88,4.0,2
+308,Wheezing,3,88,4.0,2
+309,Wheezing,4,88,4.0,2
+310,Wheezing,5,88,4.0,2
+311,Weakness,1,37,,0
+312,Weakness,2,37,,0
+313,Weakness,3,37,,0
+314,Weakness,4,37,,0
+315,Weakness,5,37,,0
+316,Yellow skin,1,60,,0
+317,Yellow skin,2,60,,0
+318,Yellow skin,3,60,,0
+319,Yellow skin,4,60,,0
+320,Yellow skin,5,60,,0
+321,Chest tightness,1,35,9.0,1
+322,Chest tightness,2,35,9.0,1
+323,Chest tightness,3,35,9.0,1
+324,Chest tightness,4,35,9.0,1
+325,Chest tightness,5,35,9.0,1
+326,Cold sweats,1,11,,0
+327,Cold sweats,2,11,,0
+328,Cold sweats,3,11,,0
+329,Cold sweats,4,11,,0
+330,Cold sweats,5,11,,0
+331,Confusion,1,19,,0
+332,Confusion,2,19,,0
+333,Confusion,3,19,,0
+334,Confusion,4,19,,0
+335,Confusion,5,19,,0
+336,Hot flashes,1,49,,0
+337,Hot flashes,2,49,,0
+338,Hot flashes,3,49,,0
+339,Hot flashes,4,49,,0
+340,Hot flashes,5,49,,0
+341,Paleness,1,16,62.0,1
+342,Paleness,2,16,62.0,1
+343,Paleness,3,16,62.0,1
+344,Paleness,4,16,62.0,1
+345,Paleness,5,16,62.0,1
+346,Ringing in ears,1,8,,0
+347,Ringing in ears,2,8,,0
+348,Ringing in ears,3,8,,0
+349,Ringing in ears,4,8,,0
+350,Ringing in ears,5,8,,0
+351,Excessive thirst,1,11,,0
+352,Excessive thirst,2,11,,0
+353,Excessive thirst,3,11,,0
+354,Excessive thirst,4,11,,0
+355,Excessive thirst,5,11,,0
+356,Dry cough,1,23,29.0,4
+357,Dry cough,2,23,29.0,4
+358,Dry cough,3,23,29.0,4
+359,Dry cough,4,23,29.0,4
+360,Dry cough,5,23,29.0,4
+361,Aphasia,1,19,,0
+362,Aphasia,2,19,,0
+363,Aphasia,3,19,,0
+364,Aphasia,4,19,,0
+365,Aphasia,5,19,,0
+366,Lightheadedness,1,12,,0
+367,Lightheadedness,2,12,,0
+368,Lightheadedness,3,12,,0
+369,Lightheadedness,4,12,,0
+370,Lightheadedness,5,12,,0
+371,Orthopnea,1,35,43.0,1
+372,Orthopnea,2,35,43.0,1
+373,Orthopnea,3,35,43.0,1
+374,Orthopnea,4,35,43.0,1
+375,Orthopnea,5,35,43.0,1
+376,Paresthesia,1,73,44.0,3
+377,Paresthesia,2,73,44.0,3
+378,Paresthesia,3,73,44.0,3
+379,Paresthesia,4,73,44.0,3
+380,Paresthesia,5,73,44.0,3
+381,Phlegm production,1,23,46.0,4
+382,Phlegm production,2,23,46.0,4
+383,Phlegm production,3,23,46.0,4
+384,Phlegm production,4,23,46.0,4
+385,Phlegm production,5,23,46.0,4
+386,Restlessness,1,87,,0
+387,Restlessness,2,87,,0
+388,Restlessness,3,87,,0
+389,Restlessness,4,87,,0
+390,Restlessness,5,87,,0
+391,Bloody stool,1,26,,0
+392,Bloody stool,2,26,,0
+393,Bloody stool,3,26,,0
+394,Bloody stool,4,26,,0
+395,Bloody stool,5,26,,0
+396,Tingling,1,73,44.0,3
+397,Tingling,2,73,44.0,3
+398,Tingling,3,73,44.0,3
+399,Tingling,4,73,44.0,3
+400,Tingling,5,73,44.0,3
+401,Vision loss,1,45,,0
+402,Vision loss,2,45,,0
+403,Vision loss,3,45,,0
+404,Vision loss,4,45,,0
+405,Vision loss,5,45,,0
+406,Voice changes,1,58,,0
+407,Voice changes,2,58,,0
+408,Voice changes,3,58,,0
+409,Voice changes,4,58,,0
+410,Voice changes,5,58,,0
+411,Water retention,1,55,106.0,1
+412,Water retention,2,55,106.0,1
+413,Water retention,3,55,106.0,1
+414,Water retention,4,55,106.0,1
+415,Water retention,5,55,106.0,1
+416,Internal bleeding,1,20,,0
+417,Internal bleeding,2,20,,0
+418,Internal bleeding,3,20,,0
+419,Internal bleeding,4,20,,0
+420,Internal bleeding,5,20,,0
+421,Zoster lesions,1,97,3.0,5
+422,Zoster lesions,2,97,3.0,5
+423,Zoster lesions,3,97,3.0,5
+424,Zoster lesions,4,97,3.0,5
+425,Zoster lesions,5,97,3.0,5
+426,Blisters,1,31,115.0,2
+427,Blisters,2,31,115.0,2
+428,Blisters,3,31,115.0,2
+429,Blisters,4,31,115.0,2
+430,Blisters,5,31,115.0,2
+431,Coma,1,19,,0
+432,Coma,2,19,,0
+433,Coma,3,19,,0
+434,Coma,4,19,,0
+435,Coma,5,19,,0
+436,Burning sensation,1,74,44.0,3
+437,Burning sensation,2,74,44.0,3
+438,Burning sensation,3,74,44.0,3
+439,Burning sensation,4,74,44.0,3
+440,Burning sensation,5,74,44.0,3
+441,Cold intolerance,1,104,68.0,1
+442,Cold intolerance,2,104,68.0,1
+443,Cold intolerance,3,104,68.0,1
+444,Cold intolerance,4,104,68.0,1
+445,Cold intolerance,5,104,68.0,1
+446,Dry skin,1,97,35.0,3
+447,Dry skin,2,97,35.0,3
+448,Dry skin,3,97,35.0,3
+449,Dry skin,4,97,35.0,3
+450,Dry skin,5,97,35.0,3
+451,Fainting,1,110,,0
+452,Fainting,2,110,,0
+453,Fainting,3,110,,0
+454,Fainting,4,110,,0
+455,Fainting,5,110,,0
+456,Low blood pressure,1,12,41.0,1
+457,Low blood pressure,2,12,41.0,1
+458,Low blood pressure,3,12,41.0,1
+459,Low blood pressure,4,12,41.0,1
+460,Low blood pressure,5,12,41.0,1
+461,Hair loss,1,49,80.0,2
+462,Hair loss,2,49,80.0,2
+463,Hair loss,3,49,80.0,2
+464,Hair loss,4,49,80.0,2
+465,Hair loss,5,49,80.0,2
+466,Hypersalivation,1,93,11.0,3
+467,Hypersalivation,2,93,11.0,3
+468,Hypersalivation,3,93,11.0,3
+469,Hypersalivation,4,93,11.0,3
+470,Hypersalivation,5,93,11.0,3
+471,Insomnia,1,99,121.0,1
+472,Insomnia,2,99,121.0,1
+473,Insomnia,3,99,121.0,1
+474,Insomnia,4,99,121.0,1
+475,Insomnia,5,99,121.0,1
+476,Gastroenteritis,1,102,88.0,4
+477,Gastroenteritis,2,102,88.0,4
+478,Gastroenteritis,3,102,88.0,4
+479,Gastroenteritis,4,102,88.0,4
+480,Gastroenteritis,5,102,88.0,4
+481,Abcesses,1,116,23.0,4
+482,Abcesses,2,116,23.0,4
+483,Abcesses,3,116,23.0,4
+484,Abcesses,4,116,23.0,4
+485,Abcesses,5,116,23.0,4
+486,Jaundice,1,60,,0
+487,Jaundice,2,60,,0
+488,Jaundice,3,60,,0
+489,Jaundice,4,60,,0
+490,Jaundice,5,60,,0
+491,Meningitis,1,63,20.0,1
+492,Meningitis,2,63,20.0,1
+493,Meningitis,3,63,20.0,1
+494,Meningitis,4,63,20.0,1
+495,Meningitis,5,63,20.0,1
+496,Buboes,1,66,34.0,2
+497,Buboes,2,66,34.0,2
+498,Buboes,3,66,34.0,2
+499,Buboes,4,66,34.0,2
+500,Buboes,5,66,34.0,2
+501,Pneumonia,1,23,12.0,1
+502,Pneumonia,2,23,12.0,1
+503,Pneumonia,3,23,12.0,1
+504,Pneumonia,4,23,12.0,1
+505,Pneumonia,5,23,12.0,1

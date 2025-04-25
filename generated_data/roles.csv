@@ -1,0 +1,11 @@
+role_id,title,can_prescribe
+1,Doctor,True
+2,RN,True
+3,Nurse Assistant,False
+4,Technician,False
+5,Pharmacist,True
+6,Admin,False
+7,Maintenance,False
+8,Security,False
+9,Therapist,False
+10,IT Support,False

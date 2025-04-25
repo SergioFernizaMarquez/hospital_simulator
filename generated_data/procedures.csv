@@ -1,0 +1,127 @@
+procedure_id,name,type,cost
+1,ACL Reconstruction,Surgery,21000.0
+2,Abdominal Ultrasound,Imaging,305.0
+3,Achilles Repair,Surgery,15000.0
+4,Adrenalectomy,Other,100.0
+5,Allergy Skin Test,Lab Test,100.0
+6,Appendectomy,Other,100.0
+7,Arthroscopic Meniscectomy,Surgery,12000.0
+8,Audiometry,Other,100.0
+9,Barium Swallow,Imaging,800.0
+10,Blood Cultures,Lab Test,150.0
+11,Blood Glucose Test,Other,100.0
+12,Blood Pressure Measurement,Other,100.0
+13,Bone Marrow Transplant,Surgery,350000.0
+14,Bronchial Thermoplasty,Surgery,25000.0
+15,Bypass Surgery,Other,100.0
+16,CBC,Other,100.0
+17,CBC & Coagulation Panel,Lab Test,95.0
+18,CRP Test,Other,100.0
+19,CT Head,Other,100.0
+20,CT Scan,Other,100.0
+21,Carpal Tunnel Release,Surgery,8000.0
+22,Catheter Ablation,Surgery,20000.0
+23,Chest X-ray,Imaging,280.0
+24,Cognitive Assessment,Evaluation,200.0
+25,Colectomy,Surgery,40000.0
+26,Colonoscopy,Endoscopy,3100.0
+27,Coronary Artery Bypass Graft,Surgery,146000.0
+28,Craniotomy,Surgery,60000.0
+29,Cystectomy,Surgery,40000.0
+30,Deep Brain Stimulation,Surgery,60000.0
+31,Dermatologic Exam,Exam,120.0
+32,Discectomy,Surgery,25000.0
+33,Dix-Hallpike Maneuver,Exam,80.0
+34,EEG (Electroencephalogram),Other,100.0
+35,EKG,Other,100.0
+36,EKG (Electrocardiogram),Other,100.0
+37,EMG,Other,100.0
+38,Endarterectomy,Other,100.0
+39,Endoscopy,Other,100.0
+40,Epicondylar Debridement,Surgery,10000.0
+41,Escharotomy,Surgery,15000.0
+42,Fasciotomy,Surgery,12000.0
+43,Fasting Blood Glucose Test,Lab Test,50.0
+44,Functional Endoscopic Sinus Surgery,Other,100.0
+45,Fundoscopy,Other,100.0
+46,Heart Transplant,Surgery,1000000.0
+47,Hip Hemiarthroplasty,Surgery,30000.0
+48,Hip Pinning,Surgery,25000.0
+49,Hormone Panel,Other,100.0
+50,Hysterectomy,Surgery,18000.0
+51,IVC Filter Placement,Other,100.0
+52,Incision and Drainage,Other,100.0
+53,Intramedullary Nailing,Surgery,20000.0
+54,Joint Replacement,Other,100.0
+55,Kidney Function Tests,Other,100.0
+56,Kidney Transplant,Surgery,700000.0
+57,Laparoscopic Excision,Other,100.0
+58,Laryngoscopy,Endoscopy,1200.0
+59,Limb-Salvage Surgery,Surgery,50000.0
+60,Liver Function Tests,Lab Test,48.0
+61,Liver Transplant,Surgery,600000.0
+62,Lobectomy,Surgery,30000.0
+63,Lumbar Puncture,Other,100.0
+64,Lumpectomy,Surgery,15000.0
+65,Lung Transplant,Surgery,700000.0
+66,Lymph Node Biopsy,Other,100.0
+67,MRI Brain (without contrast),Imaging,1325.0
+68,MRI Spine,Imaging,1325.0
+69,Mastectomy,Surgery,35000.0
+70,Mechanical Thrombectomy,Surgery,50000.0
+71,Myringotomy,Other,100.0
+72,Nephrectomy,Surgery,35000.0
+73,Nerve Conduction Study,Other,100.0
+74,Neurologic Exam,Exam,120.0
+75,Occipital Nerve Stimulation,Surgery,20000.0
+76,Oophorectomy,Surgery,20000.0
+77,Open Reduction & Internal Fixation,Surgery,15000.0
+78,Orchiectomy,Surgery,10000.0
+79,Otoscopy,Exam,100.0
+80,Ovarian Drilling,Other,100.0
+81,Percutaneous Coronary Intervention,Surgery,45000.0
+82,Phacoemulsification,Other,100.0
+83,Physical Exam & Temp Check,Other,100.0
+84,Plasma Catecholamines,Other,100.0
+85,Pneumonectomy,Surgery,100000.0
+86,Prostatectomy,Surgery,20000.0
+87,Psychiatric Evaluation,Evaluation,150.0
+88,Pulmonary Function Test,Other,100.0
+89,Resection,Other,100.0
+90,Rhinoscopy,Other,100.0
+91,Rotator Cuff Repair,Surgery,18000.0
+92,Salivary Flow Test,Lab Test,100.0
+93,Salivary Gland Imaging,Other,100.0
+94,Scrotal Ultrasound,Other,100.0
+95,Skin Allergy Test,Other,100.0
+96,Skin Biopsy,Other,100.0
+97,Skin Exam,Exam,100.0
+98,Skin Grafting,Surgery,20000.0
+99,Sleep Study,Other,100.0
+100,Slit Lamp Exam,Exam,150.0
+101,Splenectomy,Other,100.0
+102,Stool Culture,Lab Test,75.0
+103,Synovectomy,Surgery,15000.0
+104,TSH Test,Other,100.0
+105,Temporal Lobe Resection,Surgery,50000.0
+106,Throat Swab,Lab Test,100.0
+107,Thrombectomy,Other,100.0
+108,Thyroid Function Test,Lab Test,76.0
+109,Thyroidectomy,Surgery,15000.0
+110,Tilt Table Test,Other,100.0
+111,Tonsillectomy,Other,100.0
+112,Total Hip Replacement,Surgery,39000.0
+113,Total Knee Replacement,Surgery,40000.0
+114,Trabeculectomy,Other,100.0
+115,Transurethral Resection of Prostate,Other,100.0
+116,Ultrasound,Other,100.0
+117,Upper Endoscopy,Endoscopy,4000.0
+118,Urinalysis,Lab Test,35.0
+119,Varicocelectomy,Other,100.0
+120,Vascular Doppler Ultrasound,Other,100.0
+121,Vein Stripping,Other,100.0
+122,Vertebroplasty,Other,100.0
+123,Whipple Procedure,Surgery,150000.0
+124,Wide Local Excision,Surgery,12000.0
+125,Wide Local Resection,Other,100.0
+126,X-ray Joint,Imaging,300.0
